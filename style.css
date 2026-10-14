@@ -129,7 +129,7 @@ input[type=range]::-moz-range-track {
     border-bottom: 3px solid white;
     border-radius: 0;
     padding: -0 7px;
-    background-image: linear-gradient(white);
+    /* /* background-image: linear-gradient(white); */ */
 }
       
 input[type=range]::-webkit-slider-runnable-track {
@@ -140,7 +140,7 @@ input[type=range]::-webkit-slider-runnable-track {
     border-bottom: 3px solid white;
     border-radius: 0;
     padding: -0 7px;
-    background-image: linear-gradient(white);
+    /* background-image: linear-gradient(white); */
 }
       
 input[type=range]::-ms-track {
@@ -151,7 +151,7 @@ input[type=range]::-ms-track {
     border-bottom: 3px solid white;
     border-radius: 0;
     padding: -0 7px;
-    background-image: linear-gradient(white);
+    /* background-image: linear-gradient(white); */
 }
 
 #settingsButton {
